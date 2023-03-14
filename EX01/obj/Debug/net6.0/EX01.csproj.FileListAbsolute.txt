@@ -1,0 +1,15 @@
+D:\C#\Eligibility-for-Admission\EX01\bin\Debug\net6.0\EX01.exe
+D:\C#\Eligibility-for-Admission\EX01\bin\Debug\net6.0\EX01.deps.json
+D:\C#\Eligibility-for-Admission\EX01\bin\Debug\net6.0\EX01.runtimeconfig.json
+D:\C#\Eligibility-for-Admission\EX01\bin\Debug\net6.0\EX01.dll
+D:\C#\Eligibility-for-Admission\EX01\bin\Debug\net6.0\EX01.pdb
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.csproj.AssemblyReference.cache
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.AssemblyInfoInputs.cache
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.AssemblyInfo.cs
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.csproj.CoreCompileInputs.cache
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.dll
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\refint\EX01.dll
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.pdb
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\EX01.genruntimeconfig.cache
+D:\C#\Eligibility-for-Admission\EX01\obj\Debug\net6.0\ref\EX01.dll
