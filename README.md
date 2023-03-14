@@ -58,7 +58,7 @@ public class EX01
 
 ```
 ## Output:
-![o](out.png)
+![o](EX01/out.png)
 
 ## Result:
 The C# program to find the eligibility for admission to an engineering course has been executed successfully.
